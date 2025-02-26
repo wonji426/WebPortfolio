@@ -1,3 +1,2 @@
 # WebPortfolio1
-setup
-ex)
+웹 포트폴리오 연습
